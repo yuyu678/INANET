@@ -1,0 +1,9 @@
+# ninja log v5
+1	13650	0	D:/zhangyu/DB-master/DB-master/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/src/deform_conv_cuda.obj	510a325f602e21bc
+282	14529	0	D:/zhangyu/DB-master/DB-master/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/src/deform_conv_cuda_kernel.obj	7f2bbbb5fa350fa8
+0	8811	0	D:/zhangyu/DB-master/DB-master/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/src/deform_pool_cuda.obj	5b2ea8e82de86026
+5	10401	0	D:/zhangyu/DB-master/DB-master/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/src/deform_pool_cuda_kernel.obj	b71f399f6d23fa6b
+8	15544	7172345313230518	D:/zhangyu/DB-master1/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/zhangyu/DB-master1/assets/ops/dcn/src/deform_conv_cuda.obj	67f881403b3f5b9f
+103	16168	7172345319326565	D:/zhangyu/DB-master1/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/zhangyu/DB-master1/assets/ops/dcn/src/deform_conv_cuda_kernel.obj	698447d4ac860aad
+9	5665	7172345399888194	D:/zhangyu/DB-master1/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/zhangyu/DB-master1/assets/ops/dcn/src/deform_pool_cuda.obj	1f87054b0d9b146a
+11	6633	7172345409430592	D:/zhangyu/DB-master1/assets/ops/dcn/build/temp.win-amd64-cpython-37/Release/zhangyu/DB-master1/assets/ops/dcn/src/deform_pool_cuda_kernel.obj	a52b4a41d70bb1f7
